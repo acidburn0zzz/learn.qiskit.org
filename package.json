@@ -54,7 +54,7 @@
     "@lumino/widgets": "^1.31.1",
     "@mathigon/boost": "^1.0.12",
     "@mathigon/euclid": "^1.0.8",
-    "@mathigon/studio": "0.1.16",
+    "@mathigon/studio": "0.1.42",
     "@qiskit-community/qiskit-vue": "^3.4.0",
     "@webcomponents/webcomponentsjs": "^2.6.0",
     "carbon-components": "~10.51.0",
@@ -100,7 +100,7 @@
     "rimraf": "^3.0.2",
     "sass-loader": "^10.2.1",
     "sass-mq": "^6.0.0",
-    "start-server-and-test": "^1.14.0",
+    "start-server-and-test": "^2.0.3",
     "tslib": "^2.3.1",
     "vue-demi": "^0.12.1"
   }
